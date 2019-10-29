@@ -8,8 +8,8 @@
         "type": "image/png"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/pwa-fireworks/index.html",
   "background_color": "#000",
   "theme_color": "#536878",
-  "display": "standalone"
+  "display": "fullscreen"
 }
